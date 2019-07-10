@@ -1,2 +1,3 @@
-# assignment-1
-excel homework
+# Kickstarter Analysis
+Utilze data from a csv file to generate excel visualizations and report write-up about findings. 
+
